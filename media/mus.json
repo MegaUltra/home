@@ -1,0 +1,62 @@
+{
+    "providerName": "Mega Ultra Studios",
+    "language": "en-US",
+    "lastUpdated": "2019-01-05T18:12:32.125Z",
+    "movies": [
+      {
+        "id": "lfd",
+        "title": "Left for Dead",
+        "content": {
+          "dateAdded": "2019-01-05T22:21:37+00:00",
+          "videos": [
+            {
+              "url": "https://megaultra.space/media/Left_for_Dead.mp4",
+              "quality": "HD",
+              "videoType": "MP4"
+            }
+          ],
+          "captions": [
+            {
+              "url": "https://megaultra.space/media/Left_for_Dead_en.srt",
+              "Language": "en",
+              "captionType": "CLOSED_CAPTION"
+            }
+          ],
+          "duration": 3610
+        },
+        "genres": [
+          "action",
+          "comedy",
+          "crime"
+        ],
+        "thumbnail": "https://megaultra.space/media/Left_for_Dead_thumb.jpg",
+        "releaseDate": "2016-01-01",
+        "shortDescription": "Four of the toughest girls from the streets of New Mexico take on the hit-men that killed their little sister in this offbeat modern throwback to exploitation and revenge films.",
+        "tags": [
+          "feature films"
+        ]
+      }
+    ],
+    "shortFormVideos": [
+      {
+        "id": "dbjb",
+        "title": "Dirty Brown Jug Band - Road to Nowhere",
+        "shortDescription": "Written and Performed by Dirty Brown Jug Band Starring the ladies of Burlesque Noir.",
+        "thumbnail": "https://megaultra.space/media/Dirty_Brown_Jug_Band_Road_to_Nowhere_thumb.jpg",
+        "genres": [
+          "special"
+        ],
+        "tags": [
+          "music videos"
+        ],
+        "releaseDate": "2014-08-25",
+        "content": {
+          "dateAdded": "2019-01-05T14:14:54.431Z",
+          "captions": [],
+          "duration": 215,
+          "videos": [
+            {"url": "https://megaultra.space/media/Dirty_Brown_Jug_Band_Road_to_Nowhere.mp4",
+              "quality": "HD",
+              "videoType": "MP4"}]
+            }
+        },{"id":"mnbf","title":"My New Best Friend","shortDescription":"What would you do with an alien that looks exactly like a celebrity?  Find out in this 48 Hour Film Project Sci-Fi three-time award winning short film.","thumbnail":"https://megaultra.space/media/My_New_Best_Friend_thumb.jpg","genres":["science fiction","action", "horror", "comedy"],"tags":["short films"],"releaseDate":"2015-10-25","content":{"dateAdded":"2019-01-06T14:14:54.431Z","captions":[],"duration":379,"videos":[{"url":"https://megaultra.space/media/My_New_Best_Friend.mp4","quality":"HD","videoType":"MP4"}]}}],"playlists":[{"name":"feature-films","itemIds":["lfd"]},{"name":"music-videos","itemIds":["dbjb"]},{"name":"short-films","itemIds":["mnbf"]}],"categories":[{"name":"Feature Films","playlistName":"feature-films","order":"manual"},{"name":"Music Videos","playlistName":"music-videos","order":"manual"},{"name":"Short Films","playlistName":"short-films","order":"manual"}]}
